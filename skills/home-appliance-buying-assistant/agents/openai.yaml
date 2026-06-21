@@ -1,0 +1,7 @@
+interface:
+  display_name: "家用电器选购助手"
+  short_description: "按硬规格、真实价格和家庭需求判断家电型号是否值得买"
+  default_prompt: "使用 $home-appliance-buying-assistant 判断这个家电型号是否符合我的家庭需求。"
+
+policy:
+  allow_implicit_invocation: true
